@@ -1,6 +1,8 @@
 ---
 title: About Me
 description: Catherine's personal blog
+featuredImage: ../images/error404.jpg
+
 ---
 
 # About Me
