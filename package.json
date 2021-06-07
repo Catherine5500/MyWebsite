@@ -11,10 +11,10 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
     "deploy":"gh-pages -d public"
   },
-  "homepage": "https://Catherine5500.github.io/mywebsite"
+  "homepage": "https://Catherine5500.github.io/mywebsite",
   "dependencies": {
     "@emotion/core": "^11.0.0",
     "@emotion/react": "^11.4.0",
