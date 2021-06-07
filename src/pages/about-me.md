@@ -1,5 +1,6 @@
 ---
 title: About Me
+description: Catherine's personal blog
 ---
 
 # About Me
@@ -18,7 +19,7 @@ Today I don’t play much because when I do, it quickly gives me ideas that I lo
 
 In fact, my desire for crafting things is not tied to video games, I like to build things in general, which is why I’m not only specialized in game development. During my career, I've tried to acquire all the skills to build and publish projects on my own. This is why I'm familiar with high and low-level programming languages, but I've also developed skills in marketing / growth hacking, data analysis, UI / UX, and art. Of course, I'm not as good at these as I am at software engineering, but I know enough to do some projects on my own or to manage people to do it.
 
-## Career
+<!-- ## Career
 
 I studied IT at Epitech Paris and also one year in southern California at California State University-San Marcos. In the later, I studied mostly computer science and artificial intelligence.
 
@@ -122,9 +123,9 @@ I'm a good fit if:
 
   I've used Haskell for a few weeks. I've read [Get Programming with Haskell](https://www.goodreads.com/book/show/31338521-get-programming-with-haskell?ac=1&from_search=true&qid=NkyykSYulz&rank=1) and I'm now reading [Haskell in Depth](https://www.goodreads.com/book/show/41057179-haskell-in-depth?ac=1&from_search=true&qid=sQorv6E9UB&rank=1).
 
-  I see how Haskell robustness (strong static typing, purity, and immutability) can increase productivity in the long run, therefore I would be interested to use it on a freelance project.
+  I see how Haskell robustness (strong static typing, purity, and immutability) can increase productivity in the long run, therefore I would be interested to use it on a freelance project. -->
 
-## Recommendations
+<!-- ## Recommendations
 
 > Arnaud worked at Forest Admin for nearly 2 years and the whole technical team is sad to lose him.
 > Arnaud has brought us a lot both technically and humanely.
@@ -142,29 +143,22 @@ Source: [LinkedIn](https://www.linkedin.com/in/arnaud-valensi-04080084/)
 Romain Gauthier, Data Scientist @ Intersec
 
 Source: [LinkedIn](https://www.linkedin.com/in/arnaud-valensi-04080084/)
-
-## Technical Books I Like
+ -->
+<!-- ## Technical Books I Like
 
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
 - [Clean Architecture](https://www.goodreads.com/book/show/18043011-clean-architecture?ac=1&from_search=true&qid=dx9N2Y1YL9&rank=1)
 - [Rework](https://www.goodreads.com/book/show/6732019-rework?ac=1&from_search=true&qid=9RD18c285o&rank=1)
 - [Get Programming with Haskell](https://www.goodreads.com/book/show/31338521-get-programming-with-haskell?ac=1&from_search=true&qid=NkyykSYulz&rank=1)
-
-## Latest Novel Readings
+ -->
+<!-- ## Latest Novel Readings
 
 - [The Outsider by Stephen King](https://www.goodreads.com/book/show/36124936-the-outsider?ac=1&from_search=true&qid=oLJvuiOxJ7&rank=4)
 - [The Institute by Stephen King](https://www.goodreads.com/book/show/43798285-the-institute?ac=1&from_search=true&qid=GGGJjFqUgN&rank=1)
 - [Le Signal by Maxime Chattam](https://www.goodreads.com/book/show/42548217-le-signal?ac=1&from_search=true&qid=Xpq0su5Dj8&rank=1)
 - [Autre-Monde by Maxime Chattam](https://www.goodreads.com/book/show/5505135-l-alliance-des-trois?ac=1&from_search=true&qid=hbhGlCr5l4&rank=1)
 
-## Some Video Games I Like
-
-- All Zelda games but especially Breath of the Wild
-- Minecraft
-- All Half-Life games and many of their mods.
-- Both The Last of Us games
-- All the Uncharted games
-- Hitman
+ -->
 
 ## In My Spare Time
 

@@ -1,16 +1,36 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
-import Layout from "../components/layout"
+import Layout from "../components/Layout"
+import SEO from "../components/SEO"
 
-export default function Home({data}) {
+
+export default function Home({data, location }) {
+
+ const post = data.markdownRemark
+
   return (
-  	<Layout>
-	 <h1>{data.site.siteMetadata.title}</h1>
-	 <p>{data.site.siteMetadata.author}</p>
-	 <Link to="/page-2">Page 2 </Link>
-	</Layout> 
+    <Layout>
+      <SEO
+        title="About Me"
+        description="Arnaud Valensi's blog and portfolio"
+        keywords={[`blog`, `portfolio`, `Arnaud Valensi`]}
+        pathname={location.pathname}
+      />
+      <main>
+        <article>
+          <div dangerouslySetInnerHTML={{ __html: post.html }} />
+        </article>
+      </main>
+    </Layout>
+  )
+//   return (
+//   	<Layout>
+// 	 <h1>{data.site.siteMetadata.title}</h1>
+// 	 <p>{data.site.siteMetadata.author}</p>
+// 	 <Link to="/page-2">Page 2 </Link>
+// 	</Layout> 
 
-)
+// )
 }
 
 // export const query = graphql`
