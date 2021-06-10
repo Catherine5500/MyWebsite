@@ -8,7 +8,7 @@ const path = require(`path`)
 module.exports = {
   /* Your site config here */
     siteMetadata: {
-    title: `Giraffe Phd's Website`,
+    title: `Giraffe Grad`,
     description: `Catherine Yang's personal blog`,
     author: `Catherine`,
     siteUrl: `https://github.com/Catherine5500`, // No trailing slash allowed.
